@@ -1,16 +1,26 @@
-# monster_master_tracker
+# Overview
 
-A new Flutter project.
+This app is an PWR/HP and Move tracker for each player in the game Monster Master.
+Each button increases or decreases the stat's value when pressed. Some notes are:
+-PWR, DEF nor Movex can be below 0
+-Moves can't be more than 4
 
-## Getting Started
+While the game is simple to keep track of, this will help players track it much more easily.
 
-This project is a starting point for a Flutter application.
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-A few resources to get you started if this is your first Flutter project:
+[Software Demo Video](https://youtu.be/gKGO1TUQ3rI)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Development Environment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I used VSC and Flutter
+
+# Useful Websites
+
+YouTube is the way to go!
+* [YouTube](https://www.youtube.com/watch?v=1xipg02Wu8s)
+
+# Future Work
+
+* Possibly add a damage calculator to make it simpler to users to know how much damage their Master would take from attacks (although I think having to at worst just reduce 3 points per attack is not that har) 
+* Be able to change the player's color
